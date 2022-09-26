@@ -38,3 +38,14 @@
    ```
 
    Your site is now running at `http://localhost:3000`
+
+1. **Production Build**
+
+   Make the app for the production ready performant level.
+
+      ```shell
+   # run as production ready app.
+   yarn start
+   ```
+
+   Your site is now running at `http://localhost:3000`
