@@ -16,7 +16,7 @@
 
 1. **Clone the Repository**
 
-   Clone this repository or **DOWNLOAD AS ZIP.**
+   **DOWNLOAD AS ZIP** or Clone this repository.
 
    ```shell
    # github repo
