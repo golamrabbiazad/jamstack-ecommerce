@@ -44,6 +44,9 @@
    Make the app for the production ready performant level.
 
       ```shell
+   # Build for the production
+   yarn build
+
    # run as production ready app.
    yarn start
    ```
